@@ -1,0 +1,10 @@
+{
+  "bots": [
+    {
+      "bot_id": "bittermc",
+      "bot_token": "ODI5MjY2NTc2NDA2MjE2Nzg1.GPWLo9.HuUUhJDlxmWML5TuQxaRqWTdA4c_LW5miuPaTI",
+      "intents": []
+    }
+  ],
+  "disable_reconnect_logs": false
+}
